@@ -92,6 +92,13 @@ http://127.0.0.1:5000
 
 ---
 
-## 👨‍💻 Developed By
+## Output:
+## Normal Detection:
+<img width="1919" height="963" alt="Screenshot 2026-02-23 193300" src="https://github.com/user-attachments/assets/94ad12bd-a49c-4dd6-9c5f-584dbcfa9032" />
 
-LAKSHANYA.N
+## Emergency Detection:
+<img width="1919" height="958" alt="Screenshot 2026-02-23 203258" src="https://github.com/user-attachments/assets/73bc7541-e3f3-4c4d-b022-fe0d38ceea1d" />
+
+## Project Designed and Developed by,
+## Lakshanya N,
+## Saveetha Engineering College.
