@@ -1,8 +1,5 @@
 # 🚑 AI Emergency Detection Dashboard
 
-## 🏆 CodeSangram – Online Hackathon 2026
-Poornima University (PU), Jaipur
-
 ---
 
 ## 📌 Problem Statement
